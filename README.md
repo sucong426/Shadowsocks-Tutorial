@@ -367,10 +367,6 @@ github.com/zhaoweih
 
 由于以前文章的centos7不可选导致选择centos8导致的无法安装问题可以尝试使用**Debian10x64**系统安装[#27](https://github.com/zhaoweih/Shadowsocks-Tutorial/issues/27)
 
-# 讨论
-## Discord
-**我创建了一个discord聊天室，遇到问题的小伙伴可以一起讨论**
-[![alt text](./images/discord.svg  "discordapp")](https://discord.gg/wHFxCVk)
 
 # 更多
 **如果想详细了解有关shadowsocks翻墙知识的小伙伴可以查看下面文章**
