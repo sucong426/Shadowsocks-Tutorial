@@ -1,10 +1,4 @@
-**[全部文章目录](https://github.com/zhaoweih/Shadowsocks-Tutorial/wiki/%E7%9B%AE%E5%BD%95)**
 
-> 🚀安装成功后如果想加速Shadowsocks的小伙伴可以看看我这篇文章[给小白的kcptun加速shadowsocks教程](./kcptun_shadowsocks_tutorial.md)(效果很明显)
->
-> 如果过程中出现问题无法解决可以发送邮件到我邮箱zhaoweihao.dev@gmail.com  或者提[issues](https://github.com/zhaoweih/Shadowsocks-Tutorial/issues)
->
-> 如果工程师朋友们需要加速git克隆速度可以查看这篇文章[给小白的git配置shadowsocks代理加速教程](./git/git_shadowsocks_readme.md)
 
 # 前言
 
@@ -18,7 +12,7 @@
 
 ### 1、注册并登录
 
-Vultr推荐链接：https://www.vultr.com/?ref=7370522
+Vultr推荐链接：[国外云服务器 vultr 优惠链接](https://www.vultr.com/?ref=8944093-8H)
 
 这里我比较推荐Vultr，为什么呢？因为他有日本服务器，延迟低，掉包也低； 注册登录后先充值5美金，用paypal绑定国内银行卡可以最低充值5美金，当然也有支付宝，支付宝要最低10美金。
 
@@ -387,12 +381,7 @@ github.com/zhaoweih
 
 如果大家对这篇文章有任何疑问都可以提[issues](https://github.com/zhaoweih/Shadowsocks-Tutorial/issues)，如果你有其他更简单或者其他方法翻墙也可以pull requests。
 
-# 关于
-
-我是一名初入社会的社畜，一个追求自由的少年，如果想要找我，可以给我发邮件📧
-
-📮我的邮箱：zhaoweihao.dev@gmail.com
 
 # 赞赏
 
-我目前生活还是蛮自如的，有吃的有喝的，就不用赞赏了。喜欢就给我个star或者fork一下吧❤️，谢谢！
+喜欢就给我个star或者fork一下吧❤️，谢谢！
